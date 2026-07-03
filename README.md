@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-mi primer repsitorio en GitHub como estudiante
+mi primer repositorio en GitHub como estudiante
